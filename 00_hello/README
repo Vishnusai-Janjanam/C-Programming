@@ -34,8 +34,7 @@ end files with a newline]
 
 (6) Now, open up your grade.txt file in emacs (C-x C-f grade.txt)
     so you can read your feedback.  Don't forget that you can
-    change back to this buffer with C-x b, and/or split the screen
-    with C-x 2
+    change back to this buffer with C-x b, and/or split the screen    with C-x 2
     When you are done, you can quit Emacs with C-x C-c.
 
 (7) Did something go wrong?  If so, fix it, and add/push/commit/grade
@@ -44,4 +43,5 @@ end files with a newline]
     cd to that directory:
       cd ../01_apple
     and open the README there in emacs.  Follow its instructions!
-    
+
+
